@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.bak
+build/
+*.bin
+*.elf
+.DS_Store
+Thumbs.db
