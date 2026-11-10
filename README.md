@@ -2,6 +2,8 @@
 
 ESP8266 firmware for a desk companion built from a NodeMCU and a ring of six addressable RGB LEDs. A Windows PC program sends audio levels, CPU load, CPU temperature and notification events over USB serial. The ring shows them as animations.
 
+[![ESP8266](https://img.shields.io/badge/Controller-ESP8266-E7352C?logo=espressif&logoColor=white)](https://www.espressif.com/) [![Arduino](https://img.shields.io/badge/Firmware-Arduino%20C%2B%2B-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/) [![Python](https://img.shields.io/badge/PC%20Bridge-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![NeoPixel](https://img.shields.io/badge/LEDs-Addressable%20RGB-7C3AED)](https://learn.adafruit.com/adafruit-neopixel-uberguide)
+
 ## What it does
 
 - Idle: a smooth clockwise loading spinner.
